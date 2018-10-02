@@ -1,0 +1,10 @@
+While submitting my project folder, it was stuck on 'submitting' I was not able to use a github account since I was using gitlab all the time. Please use the following link to review my files. 
+
+https://gitlab.com/kfvv/projects/tree/feature/react/jammming
+
+Sorry for the inconvenience. 
+
+Kind regards,
+
+Kasper van Veen
+kfvanveen@gmail.com
